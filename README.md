@@ -1,0 +1,2 @@
+# counter
+A simple counter written in Python, which allows you to see the count at the same time, or to see the result, the application for doing specific tasks, when you want to do a task several times, or count something, you can use this counter یک شمارنده ی ساده نوشته شده با پایتون، که به شما امکان میده شمارش رو در همان لحظه ببینید، یا نتیجه رو ببینید، کاربرد برای انجام دادن کارهای مشخص، وقتی بخواید یک کار رو چند بار انجام بدید، یا چیزی رو بشمارید، میتونید از این شمارنده استفاده کنید
