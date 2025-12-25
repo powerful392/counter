@@ -14,11 +14,11 @@ while True:
                 counter += 1
                 if question.lower().strip() == "yes":
                     print(f"Current count: {counter}")
-            elif user_counts.strip() == "end":
+            elif user_counts.lower().strip() == "end":
                 print(f"Final result is {counter}")
                 break
         finish = input("Counter is finished, type 'exit' to close: ")
-        while finish.strip() != "exit":
+        while finish.lower().strip() != "exit":
             finish = input("Please type 'exit' to close: ")
         print("Program closed!")
         break
